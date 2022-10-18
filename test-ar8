@@ -136,7 +136,7 @@
     "codeME" : ""
   },
   "paxDeviceSettings" : {
-    "disableNavigatorBar" : true,
+    "disableNavigatorBar" : false,
     "disableStatusBar" : false,
     "allowAutoNetworkFallback" : false,
     "useMicroserviceDateTime" : false,
