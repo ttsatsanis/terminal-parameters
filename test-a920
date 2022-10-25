@@ -86,8 +86,8 @@
   },
   "loyaltySettings" : {
     "alphaBankBonusEnabled" : true,
-    "alphaBankBonusVTid" : "71300055",
-    "alphaBankBonusVMid" : "0020083259",
+    "alphaBankBonusVTid" : "77600033",
+    "alphaBankBonusVMid" : "0100984178",
     "useAlphaBankBonusBRAmount" : false,
     "useAlphaBankBonusWithoutOffers" : false,
     "eurobankEuroepistrofiEnabled" : false,
@@ -106,7 +106,7 @@
     "asfalistikosgoneasForceOnline" : false
   },
   "ecrSettings" : {
-    "ecrSystem" : false,
+    "ecrSystem" : true,
     "ecrSystemDefaultPort" : 4000,
     "ecrSystemMode" : 0,
     "ecrSystemProtocol" : 0
