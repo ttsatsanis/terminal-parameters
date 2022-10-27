@@ -55,7 +55,7 @@
     "refundValidationEnabled" : false,
     "localSaleEnabled" : true,
     "isManualAcquirerSelection" : false,
-    "preAuthEnabled" : false,
+    "preAuthEnabled" : true,
     "unattendedMode" : false,
     "mdbManagerEnabled" : false,
     "fileLoggerEnabled" : true,
