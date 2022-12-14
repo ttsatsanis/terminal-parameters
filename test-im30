@@ -69,6 +69,7 @@
     "isManualAcquirerSelection" : true,
     "preAuthEnabled" : false,
     "unattendedMode" : true,
+    "slaveDeviceEnabled": true,
     "mdbManagerEnabled" : false,
     "fileLoggerEnabled" : true,
     "fileLoggerMBCapacity" : 200,
