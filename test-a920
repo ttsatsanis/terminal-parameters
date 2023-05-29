@@ -39,7 +39,7 @@
     "useAutoCloseBatch" : true,
     "useAutoCloseBatchTimer" : "22:34",
     "useAutoParams" : true,
-    "useAutoParamsTimer" : "12:25",
+    "useAutoParamsTimer" : "15:10",
     "alphaBankDCCSupport" : false,
     "alphaBankDCCProfileId" : "19011",
     "alphaBankDCCPartnerId" : "9011",
@@ -85,7 +85,7 @@
     }
   },
   "loyaltySettings" : {
-    "alphaBankBonusEnabled" : true,
+    "alphaBankBonusEnabled" : false,
     "alphaBankBonusVTid" : "77600033",
     "alphaBankBonusVMid" : "0100984178",
     "useAlphaBankBonusBRAmount" : false,
