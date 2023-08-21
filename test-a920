@@ -106,7 +106,7 @@
     "asfalistikosgoneasForceOnline" : true
   },
   "ecrSettings" : {
-    "ecrSystem" : false,
+    "ecrSystem" : true,
     "ecrSystemDefaultPort" : 4000,
     "ecrSystemMode" : 0,
     "ecrSystemProtocol" : 2
