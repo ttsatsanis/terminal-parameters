@@ -61,7 +61,7 @@
     "fileLoggerEnabled" : true,
     "fileLoggerMBCapacity" : 200,
     "freeRefundEnabled" : true,
-    "freeCompletionEnabled" : false,
+    "freeCompletionEnabled" : true,
     "supportPleaseCallMeEnabled" : true,
     "supportConfiguration" : {
       "id" : "2013",
