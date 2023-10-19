@@ -15,7 +15,25 @@
     "acqName" : "WORDLINE"
   },
   "multiAcq" : {
-    "acquirers" : [ ]
+    "acquirers" : [ {
+      "acqIndetifier" : "026",
+      "acqName" : "WORDLINE",
+      "allowLocal" : true,
+      "allowPremiumLocal" : false,
+      "allowRefund" : true,
+      "allowKeyEntry" : true,
+      "allowMoto" : true,
+      "premiumLocalApprovalCode" : ""
+    }, {
+      "acqIndetifier" : "014",
+      "acqName" : "NEXI",
+      "allowLocal" : true,
+      "allowPremiumLocal" : false,
+      "allowRefund" : true,
+      "allowKeyEntry" : true,
+      "allowMoto" : true,
+      "premiumLocalApprovalCode" : ""
+    } ]
   },
   "multiMid" : {
     "services" : [ ]
