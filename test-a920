@@ -11,8 +11,8 @@
     "merchantID" : "0023839673",
     "terminalID" : "77601578",
     "customerID" : "00000000000001",
-    "acqIndetifier" : "",
-    "acqName" : ""
+    "acqIndetifier" : "026",
+    "acqName" : "WORDLINE"
   },
   "multiAcq" : {
     "acquirers" : [ ]
