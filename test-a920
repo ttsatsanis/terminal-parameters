@@ -15,7 +15,21 @@
     "acqName" : "WORDLINE"
   },
   "multiAcq" : {
-    "acquirers" : [ ]
+    "acquirers" : [ {
+		"acqIndetifier" : "014",
+      "acqName" : "Nexi",
+      "allowLocal" : true,
+      "allowRefund" : true,
+      "allowKeyEntry" : true,
+      "allowMoto" : true
+    }, {
+      "acqIndetifier" : "026",
+      "acqName" : "Eurobank",
+      "allowLocal" : true,
+      "allowRefund" : true,
+      "allowKeyEntry" : true,
+      "allowMoto" : true
+    } ]
   },
   "multiMid" : {
     "services" : [ ]
