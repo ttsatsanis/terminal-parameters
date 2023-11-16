@@ -108,8 +108,9 @@
   "ecrSettings" : {
     "ecrSystem" : true,
     "ecrSystemDefaultPort" : 4000,
-    "ecrSystemMode" : 0,
-    "ecrSystemProtocol" : 2
+    "ecrSystemMode" : 1,
+    "ecrSystemProtocol" : 2,
+    "supportBonusPoolBlock" : false
   },
   "billPayment" : {
     "useBillPayment" : false,
@@ -124,8 +125,8 @@
     "codeME" : ""
   },
   "paxDeviceSettings" : {
-    "disableNavigatorBar" : false,
-    "disableStatusBar" : false,
+    "disableNavigatorBar" : true,
+    "disableStatusBar" : true,
     "allowAutoNetworkFallback" : false,
     "useMicroserviceDateTime" : false,
     "useHostDateTime" : true
